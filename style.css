@@ -17,17 +17,16 @@ body {
 }
 
 .faq {
-  font-family: 'roboto', sans-serif;
-  font-size: 14px;
-  font-weight: 300;
-  color: #728993;
   margin-right: 40px;
 }
 
 .security {
+  margin-right: 21px;
+}
+
+.navbarlinktext {
   font-family: 'roboto', sans-serif;
   font-size: 14px;
   font-weight: 300;
   color: #728993;
-  margin-right: 21px;
 }
