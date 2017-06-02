@@ -15,3 +15,10 @@ body {
 .nav-bar {
   padding-top: 45px;
 }
+
+.faq {
+  font-family: 'roboto', sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  color: #728993;
+}
