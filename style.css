@@ -8,6 +8,10 @@ body {
   background-image: linear-gradient(to right, #000d1a, #036);
 }
 
+.container {
+  max-width: 970px;
+}
+
 .nav-bar {
   padding-top: 45px;
 }
