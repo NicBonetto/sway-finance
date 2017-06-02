@@ -23,3 +23,10 @@ body {
   color: #728993;
   margin-right: 113px;
 }
+
+.security {
+  font-family: 'roboto', sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  color: #728993;
+}
