@@ -1,0 +1,13 @@
+.nav-bar-logo {
+  width: 154px;
+  height: 24px;
+  margin-right: 2rem;
+}
+
+body {
+  background-image: linear-gradient(to right, #000d1a, #036);
+}
+
+.nav-bar {
+  padding-top: 45px;
+}
