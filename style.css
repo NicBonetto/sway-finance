@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
 .nav-bar-logo {
   width: 154px;
   height: 24px;
@@ -25,14 +27,17 @@ body {
 }
 
 .navbarlinktext {
-  font-family: 'roboto', sans-serif;
-  font-size: 14px;
-  font-weight: 300;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  -webkit-font-smoothing: antialiased;
   color: #728993;
 }
 
 .heading {
   color: white;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 300;
+  font-family: 'Roboto';
+  -webkit-font-smoothing: antialiased;
+  font-size: 37px;
+  letter-spacing: 2px;
+  margin-top: 14%;
 }
