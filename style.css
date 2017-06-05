@@ -49,3 +49,7 @@ body {
   letter-spacing: 1px;
   font-size: 16px;
 }
+
+.screenshot-image {
+  max-width: 100%;
+}
